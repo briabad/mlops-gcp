@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/w10/Desktop/NLP/models/MlFlow/mlruns/0/c2932a06229248589f41950092de0e38/artifacts
+end_time: 1657820956771
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: c2932a06229248589f41950092de0e38
+run_uuid: c2932a06229248589f41950092de0e38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1657820946194
+status: 3
+tags: []
+user_id: w10

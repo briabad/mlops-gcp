@@ -1,0 +1,2 @@
+model_checkpoint_path: "CNN_NLP_weigths"
+all_model_checkpoint_paths: "CNN_NLP_weigths"
